@@ -106,7 +106,7 @@ DEVICE_MATRIX_FILE := $(COMMON_PATH)/compatibility_matrix.xml
 TARGET_USES_ION := true
 
 # NFC
-TARGET_USES_NQ_NFC := true
+#TARGET_USES_NQ_NFC := true
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 134217728
